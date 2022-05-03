@@ -1,0 +1,8 @@
+Git
+
+-It is a very useful tool.
+-There are git commands that used for doing specific tasks, for example:
+  -git init: used for initializing a repo
+  -git add: for adding a file
+  -git commit: for commiting a file , etc.
+-We can push, pull, etc via git. 
